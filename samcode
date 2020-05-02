@@ -70,7 +70,7 @@ def main() :
 		i += 1
 
 	outfile.close()
-	file.close()
+	file.close() # закрывается файл
 	
 	print ("Complete!")
 	print ("Path to the sorted file: ", outpath)
