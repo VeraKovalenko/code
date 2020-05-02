@@ -82,4 +82,3 @@ if __name__ == "__main__":
     # Литература:
     #https://en.wikipedia.org/wiki/SAM_(file_format)
     #https://samtools.github.io/hts-specs/SAMv1.pdf
-    #
